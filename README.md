@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-https://www.linkedin.com/in/ahmad-yahya-nashikhuddin-1a4b41151/
 
 Hello World! 👋
 I'm Ahmad Yahya Nashikhuddin — a self-taught developer with a passion for creating powerful back-end systems and front-wnd web. Based in Indonesia, I’m constantly exploring new technologies and leveling up my skills.
