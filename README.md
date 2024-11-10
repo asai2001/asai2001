@@ -22,5 +22,5 @@ Java, Flutter, Go, and more.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### GitHub Statistics
-![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=erikrios&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Statistics](https://github-readme-stats-eight-theta.vercel.app/api?username=asai2001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&layout=compac)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asai2001&layout=compact&theme=radical)
