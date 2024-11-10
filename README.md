@@ -11,6 +11,8 @@ About Me 🌱
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-yahya-nashikhuddin-1a4b41151/)
 
+### GitHub Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 Languages & Tools
 Java, Flutter, Go, and more.
