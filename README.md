@@ -1,7 +1,7 @@
-### Hello, World!
+### Hello, World! 👋
 
-Hello World! 👋
-I'm Ahmad Yahya Nashikhuddin — a self-taught developer with a passion for creating powerful back-end systems and front-wnd web. Based in Indonesia, I’m constantly exploring new technologies and leveling up my skills.
+
+I'm Ahmad Yahya Nashikhuddin — a self-taught developer with a passion for creating powerful back-end systems and front-end web. Based in Indonesia, I’m constantly exploring new technologies and leveling up my skills.
 
 About Me 🌱
 - 🚀 Currently diving into exciting projects;
